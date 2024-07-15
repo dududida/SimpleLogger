@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+*.vsidx
+/.vs/SimpleLogger/v17/.wsuo
+/.vs/SimpleLogger/v17/Browse.VC.db
+*.db-shm
+*.db-wal
+*.opendb
+*.json
+/.vs
